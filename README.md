@@ -1,5 +1,5 @@
 # tesla-speedometer
-tesla like speedometer created with pure JavaScript and html canvas
+tesla inspired speedometer created with pure JavaScript and html canvas
 
 ### change speedometer values
 
