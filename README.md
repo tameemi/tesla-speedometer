@@ -9,3 +9,4 @@ drawSpeedo(120,4,.8,160);
 ```
 
 ![image](https://i.imgur.com/dObfPXD.png)
+![image](https://media.giphy.com/media/39vfVT266KffrHUm1g/giphy.gif)
