@@ -1,7 +1,7 @@
 # tesla-speedometer
 tesla like speedometer created with pure JavaScript and html canvas
 
-### change speedometer value
+### change speedometer values
 
 drawSpeedo(speed, gear, rpm, topSpeed)
 ```
